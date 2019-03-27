@@ -1,2 +1,3 @@
 # PyGames
 Repository for experimenting with some Py games
+Will use to look at some source for existing games...
